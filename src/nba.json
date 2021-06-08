@@ -1,0 +1,138 @@
+[
+  {
+    "id": 0,
+    "name": "Chicago Bulls",
+    "picture": "images/bulls.png",
+    "win": 3,
+    "ace": "Derick Rose",
+    "location": "Chicago"
+  },
+  {
+    "id": 1,
+    "name": "Newyork Knicks",
+    "picture": "images/knicks.png",
+    "win": 3,
+    "ace": "Julius Randle",
+    "location": "Newyork"
+  },
+  {
+    "id": 2,
+    "name": "LA Lakers",
+    "picture": "images/lakers.png",
+    "win": 2,
+    "ace": "James LeBron",
+    "location": "LA, California"
+  },
+  {
+    "id": 3,
+    "name": "Brooklyn Nets",
+    "picture": "images/nets.png",
+    "win": 2,
+    "ace": "Kevin Durant",
+    "location": "Brooklyn"
+  },
+  {
+    "id": 4,
+    "name": "Toronto Raptors",
+    "picture": "images/raptors.png",
+    "win": 2,
+    "ace": "Kyle Lowry",
+    "location": "Toronto, Canada"
+  },
+  {
+    "id": 5,
+    "name": "Golden State Warriors",
+    "picture": "images/warriors.png",
+    "win": 3,
+    "ace": "Stephen Curry",
+    "location": "San Francisco, California"
+  },
+  {
+    "id": 6,
+    "name": "Chicago Bulls",
+    "picture": "images/bulls.png",
+    "win": 3,
+    "ace": "Derick Rose",
+    "location": "Chicago"
+  },
+  {
+    "id": 7,
+    "name": "Newyork Knicks",
+    "picture": "images/knicks.png",
+    "win": 3,
+    "ace": "Julius Randle",
+    "location": "Newyork"
+  },
+  {
+    "id": 8,
+    "name": "LA Lakers",
+    "picture": "images/lakers.png",
+    "win": 2,
+    "ace": "James LeBron",
+    "location": "LA, California"
+  },
+  {
+    "id": 9,
+    "name": "Brooklyn Nets",
+    "picture": "images/nets.png",
+    "win": 2,
+    "ace": "Kevin Durant",
+    "location": "Brooklyn"
+  },
+  {
+    "id": 10,
+    "name": "Toronto Raptors",
+    "picture": "images/raptors.png",
+    "win": 2,
+    "ace": "Kyle Lowry",
+    "location": "Toronto, Canada"
+  },
+  {
+    "id": 11,
+    "name": "Golden State Warriors",
+    "picture": "images/warriors.png",
+    "win": 3,
+    "ace": "Stephen Curry",
+    "location": "San Francisco, California"
+  },
+  {
+    "id": 12,
+    "name": "Chicago Bulls",
+    "picture": "images/bulls.png",
+    "win": 3,
+    "ace": "Derick Rose",
+    "location": "Chicago"
+  },
+  {
+    "id": 13,
+    "name": "Newyork Knicks",
+    "picture": "images/knicks.png",
+    "win": 3,
+    "ace": "Julius Randle",
+    "location": "Newyork"
+  },
+  {
+    "id": 14,
+    "name": "LA Lakers",
+    "picture": "images/lakers.png",
+    "win": 2,
+    "ace": "James LeBron",
+    "location": "LA, California"
+  },
+  {
+    "id": 15,
+    "name": "Brooklyn Nets",
+    "picture": "images/nets.png",
+    "win": 2,
+    "ace": "Kevin Durant",
+    "location": "Brooklyn"
+  },
+  {
+    "id": 16,
+    "name": "Toronto Raptors",
+    "picture": "images/raptors.png",
+    "win": 2,
+    "ace": "Kyle Lowry",
+    "location": "Toronto, Canada"
+  }
+]
